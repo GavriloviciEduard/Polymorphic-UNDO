@@ -1,0 +1,120 @@
+1.Title: The Godfather,Genre: Crime,Year of release: 1972,Number of likes: 0,Duration: 120 minutes
+
+2.Title: The Shawshank Redemption,Genre: Crime,Year of release: 1994,Number of likes: 0,Duration: 120 minutes
+
+3.Title: The Exorcist,Genre: Horror,Year of release: 1973,Number of likes: 0,Duration: 156 minutes
+
+4.Title: A Clockwork Orange,Genre: Crime,Year of release: 1971,Number of likes: 0,Duration: 136 minutes
+
+5.Title: Gladiator,Genre: Action,Year of release: 2000,Number of likes: 0,Duration: 122 minutes
+
+6.Title: The Silence of the Lambs,Genre: Thriller,Year of release: 1991,Number of likes: 0,Duration: 133 minutes
+
+7.Title: Forrest Gump,Genre: Drama,Year of release: 1994,Number of likes: 0,Duration: 121 minutes
+
+8.Title: Schindler's List,Genre: History,Year of release: 1993,Number of likes: 0,Duration: 234 minutes
+
+9.Title: The Dark Knight,Genre: Action,Year of release: 2008,Number of likes: 0,Duration: 234 minutes
+
+10.Title: Fight Club,Genre: Drama,Year of release: 1999,Number of likes: 0,Duration: 90 minutes
+
+11.Title: Muie s,Genre: Crime,Year of release: 2000,Number of likes: 242,Duration: 2134 minutes
+
+
+**********************************************************************************************************************
+1.Title: The Godfather,Genre: Crime,Year of release: 1972,Number of likes: 0,Duration: 120 minutes
+
+2.Title: The Shawshank Redemption,Genre: Crime,Year of release: 1994,Number of likes: 0,Duration: 120 minutes
+
+3.Title: The Exorcist,Genre: Horror,Year of release: 1973,Number of likes: 0,Duration: 156 minutes
+
+4.Title: A Clockwork Orange,Genre: Crime,Year of release: 1971,Number of likes: 0,Duration: 136 minutes
+
+5.Title: Gladiator,Genre: Action,Year of release: 2000,Number of likes: 0,Duration: 122 minutes
+
+6.Title: The Silence of the Lambs,Genre: Thriller,Year of release: 1991,Number of likes: 0,Duration: 133 minutes
+
+7.Title: Forrest Gump,Genre: Drama,Year of release: 1994,Number of likes: 0,Duration: 121 minutes
+
+8.Title: Schindler's List,Genre: History,Year of release: 1993,Number of likes: 0,Duration: 234 minutes
+
+9.Title: The Dark Knight,Genre: Action,Year of release: 2008,Number of likes: 0,Duration: 234 minutes
+
+10.Title: Fight Club,Genre: Drama,Year of release: 1999,Number of likes: 0,Duration: 90 minutes
+
+11.Title: Muie,Genre: FSFSD,Year of release: 3123,Number of likes: 23,Duration: 234 minutes
+
+
+**********************************************************************************************************************
+1.Title: The Godfather,Genre: Crime,Year of release: 1972,Number of likes: 0,Duration: 120 minutes
+
+2.Title: The Shawshank Redemption,Genre: Crime,Year of release: 1994,Number of likes: 0,Duration: 120 minutes
+
+3.Title: The Exorcist,Genre: Horror,Year of release: 1973,Number of likes: 0,Duration: 156 minutes
+
+4.Title: A Clockwork Orange,Genre: Crime,Year of release: 1971,Number of likes: 0,Duration: 136 minutes
+
+5.Title: Gladiator,Genre: Action,Year of release: 2000,Number of likes: 0,Duration: 122 minutes
+
+6.Title: The Silence of the Lambs,Genre: Thriller,Year of release: 1991,Number of likes: 0,Duration: 133 minutes
+
+7.Title: Forrest Gump,Genre: Drama,Year of release: 1994,Number of likes: 0,Duration: 121 minutes
+
+8.Title: Schindler's List,Genre: History,Year of release: 1993,Number of likes: 0,Duration: 234 minutes
+
+9.Title: The Dark Knight,Genre: Action,Year of release: 2008,Number of likes: 0,Duration: 234 minutes
+
+10.Title: Fight Club,Genre: Drama,Year of release: 1999,Number of likes: 0,Duration: 90 minutes
+
+11.Title: Muie,Genre: FSFSD,Year of release: 3123,Number of likes: 23,Duration: 234 minutes
+
+12.Title: SUGE,Genre: gfdgdfgdfg,Year of release: 2145,Number of likes: 24,Duration: 123 minutes
+
+
+**********************************************************************************************************************
+1.Title: The Godfather,Genre: Crime,Year of release: 1972,Number of likes: 0,Duration: 120 minutes
+
+2.Title: The Shawshank Redemption,Genre: Crime,Year of release: 1994,Number of likes: 0,Duration: 120 minutes
+
+3.Title: The Exorcist,Genre: Horror,Year of release: 1973,Number of likes: 0,Duration: 156 minutes
+
+4.Title: A Clockwork Orange,Genre: Crime,Year of release: 1971,Number of likes: 0,Duration: 136 minutes
+
+5.Title: Gladiator,Genre: Action,Year of release: 2000,Number of likes: 0,Duration: 122 minutes
+
+6.Title: The Silence of the Lambs,Genre: Thriller,Year of release: 1991,Number of likes: 0,Duration: 133 minutes
+
+7.Title: Forrest Gump,Genre: Drama,Year of release: 1994,Number of likes: 0,Duration: 121 minutes
+
+8.Title: Schindler's List,Genre: History,Year of release: 1993,Number of likes: 0,Duration: 234 minutes
+
+9.Title: The Dark Knight,Genre: Action,Year of release: 2008,Number of likes: 0,Duration: 234 minutes
+
+10.Title: Fight Club,Genre: Drama,Year of release: 1999,Number of likes: 0,Duration: 90 minutes
+
+11.Title: Muie,Genre: Steaua,Year of release: 2345,Number of likes: 234,Duration: 123 minutes
+
+
+**********************************************************************************************************************
+1.Title: The Shawshank Redemption,Genre: Crime,Year of release: 1994,Number of likes: 0,Duration: 120 minutes
+
+2.Title: The Exorcist,Genre: Horror,Year of release: 1973,Number of likes: 0,Duration: 156 minutes
+
+3.Title: A Clockwork Orange,Genre: Crime,Year of release: 1971,Number of likes: 0,Duration: 136 minutes
+
+4.Title: Gladiator,Genre: Action,Year of release: 2000,Number of likes: 0,Duration: 122 minutes
+
+5.Title: The Silence of the Lambs,Genre: Thriller,Year of release: 1991,Number of likes: 0,Duration: 133 minutes
+
+6.Title: Forrest Gump,Genre: Drama,Year of release: 1994,Number of likes: 0,Duration: 121 minutes
+
+7.Title: Schindler's List,Genre: History,Year of release: 1993,Number of likes: 0,Duration: 234 minutes
+
+8.Title: The Dark Knight,Genre: Action,Year of release: 2008,Number of likes: 0,Duration: 234 minutes
+
+9.Title: Fight Club,Genre: Drama,Year of release: 1999,Number of likes: 0,Duration: 90 minutes
+
+10.Title: Muie,Genre: Steaua,Year of release: 2345,Number of likes: 234,Duration: 123 minutes
+
+
+**********************************************************************************************************************
